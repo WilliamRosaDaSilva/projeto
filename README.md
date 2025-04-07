@@ -1,0 +1,2 @@
+# projeto
+Funçoes iniciais git
